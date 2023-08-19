@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bellajadore - Your Beauty Destination</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #f8f8f8;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .section-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .location {
+    margin-bottom: 20px;
+  }
+  .contact-info {
+    margin-top: 20px;
+  }
+  .social-icons {
+    margin-top: 20px;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Bellajadore</h1>
+    <p>Your Ultimate Beauty Destination</p>
+  </header>
+  
+  <div class="container">
+    <section>
+      <h2 class="section-heading">About Us</h2>
+      <p>At Bellajadore, we're passionate about enhancing your natural beauty and confidence...</p>
+    </section>
+    
+    <section>
+      <h2 class="section-heading">Our Products</h2>
+      <p>Discover the elegance and versatility of our 100% human hair extensions...</p>
+    </section>
+    
+    <section>
+      <h2 class="section-heading">Why Choose Bellajadore?</h2>
+      <ul>
+        <li><strong>Premium Quality:</strong> We source and provide only the highest quality human hair...</li>
+        <li><strong>Worldwide Delivery:</strong> No matter where you are, we deliver our products to your doorstep...</li>
+        <li><strong>Global Reach, Local Touch:</strong> With locations in Dubai and Kampala...</li>
+      </ul>
+    </section>
+    
+    <section class="location">
+      <h2 class="section-heading">Our Locations</h2>
+      <div>Dubai Silicon, United Arab Emirates<br><address>[Insert Address Here]</address></div>
+      <div>Kampala Bamboo Nest Shop A9-Bugolobi<br><address>[Insert Address Here]</address></div>
+    </section>
+    
+    <section class="contact-info">
+      <h2 class="section-heading">Contact Us</h2>
+      <p>Have questions? We're here to help. Contact our friendly team for inquiries, assistance, or to place an order.</p>
+      <p><strong>Phone:</strong> [Insert Phone Number]<br><strong>Email:</strong> [Insert Email Address]</p>
+    </section>
+    
+    <section class="social-icons">
+      <h2 class="section-heading">Connect With Us</h2>
+      <a href="[Insert Facebook Link]">Facebook</a>
+      <a href="[Insert Instagram Link]">Instagram</a>
+      <a href="[Insert Twitter Link]">Twitter</a>
+    </section>
+  </div>
+  
+  <footer>
+    &copy; 2023 Bellajadore. All rights reserved.
+  </footer>
+</body>
+</html>
